@@ -1,5 +1,14 @@
 # What Palantir Sees
 
+<div>
+  <iframe
+    src="https://www.youtube.com/embed/K4I7UsmX8HI"
+    width="59%"
+    height="500px"
+    >
+  </iframe>
+</div>
+
 *The tech company’s C.T.O. on surveillance, A.I. and the future of war*
 
 ## Transcript
